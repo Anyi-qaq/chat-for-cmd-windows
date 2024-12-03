@@ -43,7 +43,7 @@ python client.py
  
 #### 贡献者 
  
-- [AnYi_QAQ](https://github.com/Anyi-qaq)
+- [Anyi_QWQ](https://github.com/Anyi-qaq)
 - [onsdidnsind](https://github.com/onsdidnsind)
  
 #### 许可证 
